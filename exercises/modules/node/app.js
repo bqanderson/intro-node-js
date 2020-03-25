@@ -1,4 +1,3 @@
-const data = require('./data')
 const { getPostsForUser, getUserById } = require('./api')
 
 const showPostsForCurrentUser = (userId, cb) => {
