@@ -3,5 +3,15 @@
     "firstName": "adfsadf",
     "lastName": "asfdasdf",
     "phoneNumber": "asfdsf"
+  },
+  "Brian Q Anderson": {
+    "firstName": "Brian Q",
+    "lastName": "Anderson",
+    "phoneNumber": "(612) 889-2136"
+  },
+  "Isabelle Anderson-Kita": {
+    "firstName": "Isabelle",
+    "lastName": "Anderson-Kita",
+    "phoneNumber": "(612) 881-1111"
   }
 }
